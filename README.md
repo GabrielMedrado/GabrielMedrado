@@ -5,7 +5,7 @@
 <div>
   <a href="https://github.com/GabrielMedrado
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMedrado&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielMedrado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMedrado&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats"/>
 </div>
 
 ### Ferramentas e Tecnologias 
