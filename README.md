@@ -2,12 +2,12 @@
 
 ## Me chamo Gabriel Medrado, sou Analista e Desenvolvedor de Softaware !
 
-<div>
-  <a href="https://github.com/GabrielMedrado
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMedrado&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMedrado&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats"/>
-</div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielMedrado&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMedrado&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+  
 ### Ferramentas e Tecnologias 
 <div style="display: inline_bloxk"> <br>
 <img align="center" alt="Medrado-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
