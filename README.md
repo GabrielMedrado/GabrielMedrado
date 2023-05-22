@@ -18,6 +18,8 @@
 <img align="center" alt="Medrado-CSS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="center" alt="Medrado-Node.js" height="80" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />                                                                                                
 </div>
+
+<img align="right" type="img.jpg" height="150" width="150"  src="https://i.ibb.co/d5h99cV/octocat-1684782069013.png" />
           
  ##
  ### Contatos: 
