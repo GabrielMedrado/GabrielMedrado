@@ -40,7 +40,6 @@
 </div>
 
 ##
-
-![Gráfico de Contribuições](dist/github-snake.svg)
+![Gráfico de Contribuições](github-snake.svg)
 
        
