@@ -41,6 +41,6 @@
 
 ##      
 
-![Snake animation].(https://github.com/gabrielmedrado/gabrielmedrado/blob/output/github-contribution-grid-snake.svg).
+![Snake animation](https://github.com/gabrielmedrado/gabrielmedrado/blob/output/github-contribution-grid-snake.svg)
 
-[![readme].(https://github-readme-stats.vercel.app/api/pin?username=gabrielmedrado&repo=gabrielmedrado&theme=react).](https://github.com/gabrielmedrado/gabrielmedrado)
+[![readme](https://github-readme-stats.vercel.app/api/pin?username=gabrielmedrado&repo=gabrielmedrado&theme=react)](https://github.com/gabrielmedrado/gabrielmedrado)
