@@ -40,22 +40,4 @@
 </div>
 
 ##
-
-```yaml
-generate_snake:
-  runs-on: ubuntu-latest
-  steps:
-    - name: Checkout do repositório
-      uses: actions/checkout@v3
-
-    - name: Geração do gráfico de contribuições
-      uses: Platane/snk@v3
-      with:
-        github_user_name: gabrielmedrado
-        outputs: |
-          dist/github-snake.svg
-          dist/github-snake-dark.svg?palette=github-dark
-          dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-``` 
-
        
