@@ -39,7 +39,4 @@
 
 </div>
 
-##
-![Gráfico de Contribuições](github-snake.svg)
-
-       
+##      
