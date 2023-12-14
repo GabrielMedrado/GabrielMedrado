@@ -10,11 +10,22 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Snake animation
-      uses: Platane/snk@v3
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v4
       with:
-        github_user_name: gabrielmedrado 
-        outputs: |
-          dist/github-snake.svg
-          dist/github-snake-dark.svg?palette=github-dark
-          dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+        node-version: 14
+
+    - name: Install Dependencies
+      run: npm install
+
+    - name: Generate Snake Animation
+      run: npm run generate-animation
+
+    - name: Upload Snake Animation
+      uses: actions/upload-artifact@v2
+      with:
+        name: snake-animation
+        path: dist
